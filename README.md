@@ -1,1 +1,1 @@
-# CPEN21A-Basic-Prog.-Test
+# CPEN 21A CPE 1-2
